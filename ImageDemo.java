@@ -60,6 +60,3 @@ public class ImageDemo extends Applet implements Runnable
 	    
 	}
 }
-
-
-
