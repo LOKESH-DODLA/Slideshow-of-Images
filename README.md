@@ -15,7 +15,7 @@ this is done by useing
 [Image2](https://user-images.githubusercontent.com/87563479/126074052-5c1fb301-01a1-4c4c-a0f4-c0a32acbbfd8.jpg)
 [Image3](https://user-images.githubusercontent.com/87563479/126074057-0c81bc0e-8914-468b-82f7-33a8d986893d.jpg)
 
-These are the Images I Useed.
+These are the Images I Used.
 
 
 
